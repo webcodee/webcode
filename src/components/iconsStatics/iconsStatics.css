@@ -1,0 +1,175 @@
+/*DESKTOP*/
+@media (min-width: 2000px) and (max-width: 2600px) {
+    .containerIconsStatics{
+        position: relative;
+    }
+    .iconsStatics{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 65px;
+    }
+    .imgIconStatic{
+        height: 30px;
+        width: 30px;
+    }
+    .containerIcon{
+        background-image: url('../../images/Ellipse\ 2.svg');
+        transition: background-image 0.5s;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 60px;
+        width: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .containerIcon:hover{
+        background-image: url('../../images/Ellipse2_1.svg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 60px;
+        width: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/*LAPTOP*/
+@media (min-width: 1440px) and (max-width: 1999px) {
+    .containerIconsStatics{
+        position: relative;
+    }
+    .iconsStatics{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 65px;
+    }
+    .imgIconStatic{
+        height: 30px;
+        width: 30px;
+    }
+    .containerIcon{
+        background-image: url('../../images/Ellipse\ 2.svg');
+        transition: background-image 0.5s;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 60px;
+        width: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .containerIcon:hover{
+        background-image: url('../../images/Ellipse2_1.svg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 60px;
+        width: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/*TABLET*/
+@media (min-width: 750px) and (max-width: 1439px) {
+    .containerIconsStatics{
+        position: relative;
+    }
+    .iconsStatics{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        padding: 45px;
+    }
+    .imgIconStatic{
+        height: 20px;
+        width: 20px;
+    }
+    .containerIcon{
+        background-image: url('../../images/Ellipse\ 2.svg');
+        transition: background-image 0.5s;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .containerIcon:hover{
+        background-image: url('../../images/Ellipse2_1.svg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 40px;
+        width: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/*PHONE*/
+@media (min-width: 300px) and (max-width: 500px) {
+    .containerIconsStatics{
+        position: relative;
+    }
+    .iconsStatics{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        padding: 25px;
+    }
+    .imgIconStatic{
+        height: 15px;
+        width: 15px;
+    }
+    .containerIcon{
+        background-image: url('../../images/Ellipse\ 2.svg');
+        transition: background-image 0.5s;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 30px;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .containerIcon:hover{
+        background-image: url('../../images/Ellipse2_1.svg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+        height: 30px;
+        width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
