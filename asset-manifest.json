@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/webcode/static/css/main.d36d6f01.css",
-    "main.js": "/webcode/static/js/main.af8bb3bc.js",
+    "main.css": "/webcode/static/css/main.a9c6dfad.css",
+    "main.js": "/webcode/static/js/main.e1c1c837.js",
     "static/js/787.902af078.chunk.js": "/webcode/static/js/787.902af078.chunk.js",
+    "static/media/accesibilidad.jpg": "/webcode/static/media/accesibilidad.db471679807d52d8f39b.jpg",
+    "static/media/fortalecer.jpg": "/webcode/static/media/fortalecer.bf6b4ee28ee5d7d7278a.jpg",
+    "static/media/aumento.jpg": "/webcode/static/media/aumento.b1de95c485a84d48b84d.jpg",
+    "static/media/responsive.jpg": "/webcode/static/media/responsive.7820e10df7e67020387d.jpg",
+    "static/media/disenoper.jpg": "/webcode/static/media/disenoper.ab4f2a3c992984857c54.jpg",
     "static/media/marcoTlfNoti.png": "/webcode/static/media/marcoTlfNoti.0fd044918b60bd6bd5f2.png",
     "static/media/phoneStart.png": "/webcode/static/media/phoneStart.42f10cfcd45f915c1e75.png",
     "static/media/W.png": "/webcode/static/media/W.1abd8952c341fb832907.png",
@@ -17,12 +22,12 @@
     "static/media/email.svg": "/webcode/static/media/email.afcaaa3c0811a9c95382c5bee72d2566.svg",
     "static/media/Ellipse 2.svg": "/webcode/static/media/Ellipse 2.8daea42168395d97fc35.svg",
     "static/media/Ellipse2_1.svg": "/webcode/static/media/Ellipse2_1.6153aa19beecdfd61e61.svg",
-    "main.d36d6f01.css.map": "/webcode/static/css/main.d36d6f01.css.map",
-    "main.af8bb3bc.js.map": "/webcode/static/js/main.af8bb3bc.js.map",
+    "main.a9c6dfad.css.map": "/webcode/static/css/main.a9c6dfad.css.map",
+    "main.e1c1c837.js.map": "/webcode/static/js/main.e1c1c837.js.map",
     "787.902af078.chunk.js.map": "/webcode/static/js/787.902af078.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d36d6f01.css",
-    "static/js/main.af8bb3bc.js"
+    "static/css/main.a9c6dfad.css",
+    "static/js/main.e1c1c837.js"
   ]
 }
